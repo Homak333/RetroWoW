@@ -1,20 +1,20 @@
-**Description:**
+**Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
 
-CHANGEME Description of the problem or issue here.
+**Expected behaviour**: Tell us what should happen instead
 
-**Current behaviour:**
+**Steps to reproduce the problem**:
 
-CHANGEME Tell us what happens.
-If this is a crash, post the crashlog (upload to https://gist.github.com/).
+1. 
+2. 
+3. 
 
-**Expected behaviour:**
+**Include proofs for this behaviour**
 
-CHANGEME Tell us what should happen instead.
+You can research this on several pages like http://wowhead.com or http://wowwiki.wikia.com or http://www.youtube.com/
+Issues without proofs will be closed and tag On Hold will be added until the proof is provided.
 
-**Steps to reproduce the problem:**
+**Include the ID for the game objects, npcs (creatures,pets,minions), spells, items, quests, instances, zones, achievements, skills**
 
-1. CHANGEME Step 1 include entries of affected creatures / items / quests with a link to the relevant wowhead page.  
-2. Step 2
-3. Step 3
+You can research this on several pages like https://wowgaming.altervista.org/aowow/ or https://wowhead.com/
 
-*** Source ***
+**Include Screenshots from the issue if necessary**
