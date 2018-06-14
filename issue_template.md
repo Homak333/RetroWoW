@@ -13,4 +13,4 @@
 **Source:**
 
 
-**Include Screenshots from the issue if necessary**
+**Include Screenshots from the issue if necessary**:
